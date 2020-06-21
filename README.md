@@ -1,2 +1,0 @@
-# kpboard-teste-funcional
-
